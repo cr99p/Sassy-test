@@ -1,0 +1,12 @@
+$primary-color:  rgb(0, 134, 196);
+$secondary-color: rgb(189, 0, 116);
+$transition: 1s;
+
+body button {
+    background: $primary-color;
+
+    &:hover {
+        transition: $transition;
+        background: $secondary-color;
+    }
+}

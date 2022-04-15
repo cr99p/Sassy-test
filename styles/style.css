@@ -1,0 +1,10 @@
+body button {
+  background: #0086c4;
+}
+
+body button:hover {
+  -webkit-transition: 1s;
+  transition: 1s;
+  background: #bd0074;
+}
+/*# sourceMappingURL=style.css.map */
